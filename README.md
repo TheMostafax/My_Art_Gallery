@@ -37,7 +37,7 @@ https://github.com/TheMostafax/my_art_gallery/assets/81190585/8c788de9-92b4-45e3
 
 
 
-<h3 align="center">Home page/h3>
+<h3 align="center">Home page</h3>
 
 
 ![Home page](https://github.com/TheMostafax/my_art_gallery/assets/81190585/a320bef1-852e-47a9-ba5f-fc2129527a23)

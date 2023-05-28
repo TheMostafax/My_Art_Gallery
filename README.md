@@ -17,7 +17,11 @@ A simple mobile-app using (Flutter), "My Art Gallery" is a mobile application th
 <h1 align="center">Demo</h1>
 
 
-![Details page](https://github.com/TheMostafax/my_art_gallery/assets/81190585/feac5d9f-d374-4cd9-aa63-4a70d2b3b3a6)
+
+
+
+https://github.com/TheMostafax/my_art_gallery/assets/81190585/8c788de9-92b4-45e3-ba45-21cd8595bc9c
+
 
 
 

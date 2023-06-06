@@ -8,6 +8,7 @@ A simple mobile-app using (Flutter), "My Art Gallery" is a mobile application th
 
 
 
+
 <h1 align="center">Notes</h1>
 <h4 align="left">1. I am still working on some new features, this is just phase one.</h4>
 <h4 align="left">2. I didn't upload my artworks images in the assets folder to avoid any problem.</h4>
